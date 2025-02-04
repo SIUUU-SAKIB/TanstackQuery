@@ -1,0 +1,182 @@
+{"movies":[
+  {
+    "id": 1,
+    "name": "The Shawshank Redemption",
+    "genre": "Drama",
+    "release_date": "1994-09-23"
+  },
+  {
+    "id": 2,
+    "name": "The Godfather",
+    "genre": "Crime, Drama",
+    "release_date": "1972-03-24"
+  },
+  {
+    "id": 3,
+    "name": "The Dark Knight",
+    "genre": "Action, Crime, Drama",
+    "release_date": "2008-07-18"
+  },
+  {
+    "id": 4,
+    "name": "Pulp Fiction",
+    "genre": "Crime, Drama",
+    "release_date": "1994-10-14"
+  },
+  {
+    "id": 5,
+    "name": "Forrest Gump",
+    "genre": "Drama, Romance",
+    "release_date": "1994-07-06"
+  },
+  {
+    "id": 6,
+    "name": "Inception",
+    "genre": "Action, Adventure, Sci-Fi",
+    "release_date": "2010-07-16"
+  },
+  {
+    "id": 7,
+    "name": "The Matrix",
+    "genre": "Action, Sci-Fi",
+    "release_date": "1999-03-31"
+  },
+  {
+    "id": 8,
+    "name": "Interstellar",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "release_date": "2014-11-07"
+  },
+  {
+    "id": 9,
+    "name": "Fight Club",
+    "genre": "Drama",
+    "release_date": "1999-10-15"
+  },
+  {
+    "id": 10,
+    "name": "The Lord of the Rings: The Return of the King",
+    "genre": "Adventure, Drama, Fantasy",
+    "release_date": "2003-12-17"
+  },
+  {
+    "id": 11,
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "genre": "Adventure, Drama, Fantasy",
+    "release_date": "2001-12-19"
+  },
+  {
+    "id": 12,
+    "name": "The Lord of the Rings: The Two Towers",
+    "genre": "Adventure, Drama, Fantasy",
+    "release_date": "2002-12-18"
+  },
+  {
+    "id": 13,
+    "name": "Star Wars: Episode IV - A New Hope",
+    "genre": "Action, Adventure, Fantasy",
+    "release_date": "1977-05-25"
+  },
+  {
+    "id": 14,
+    "name": "Star Wars: Episode V - The Empire Strikes Back",
+    "genre": "Action, Adventure, Fantasy",
+    "release_date": "1980-05-21"
+  },
+  {
+    "id": 15,
+    "name": "Star Wars: Episode VI - Return of the Jedi",
+    "genre": "Action, Adventure, Fantasy",
+    "release_date": "1983-05-25"
+  },
+  {
+    "id": 16,
+    "name": "The Avengers",
+    "genre": "Action, Adventure, Sci-Fi",
+    "release_date": "2012-05-04"
+  },
+  {
+    "id": 17,
+    "name": "Avengers: Endgame",
+    "genre": "Action, Adventure, Drama",
+    "release_date": "2019-04-26"
+  },
+  {
+    "id": 18,
+    "name": "Avengers: Infinity War",
+    "genre": "Action, Adventure, Sci-Fi",
+    "release_date": "2018-04-27"
+  },
+  {
+    "id": 19,
+    "name": "The Lion King",
+    "genre": "Animation, Adventure, Drama",
+    "release_date": "1994-06-24"
+  },
+  {
+    "id": 20,
+    "name": "Toy Story",
+    "genre": "Animation, Adventure, Comedy",
+    "release_date": "1995-11-22"
+  },
+  {
+    "id": 21,
+    "name": "Toy Story 2",
+    "genre": "Animation, Adventure, Comedy",
+    "release_date": "1999-11-24"
+  },
+  {
+    "id": 22,
+    "name": "Toy Story 3",
+    "genre": "Animation, Adventure, Comedy",
+    "release_date": "2010-06-18"
+  },
+  {
+    "id": 23,
+    "name": "Toy Story 4",
+    "genre": "Animation, Adventure, Comedy",
+    "release_date": "2019-06-21"
+  },
+  {
+    "id": 24,
+    "name": "Finding Nemo",
+    "genre": "Animation, Adventure, Comedy",
+    "release_date": "2003-05-30"
+  },
+  {
+    "id": 25,
+    "name": "Finding Dory",
+    "genre": "Animation, Adventure, Comedy",
+    "release_date": "2016-06-17"
+  },
+  {
+    "id": 26,
+    "name": "Up",
+    "genre": "Animation, Adventure, Comedy",
+    "release_date": "2009-05-29"
+  },
+  {
+    "id": 27,
+    "name": "Inside Out",
+    "genre": "Animation, Adventure, Comedy",
+    "release_date": "2015-06-19"
+  },
+  {
+    "id": 28,
+    "name": "Coco",
+    "genre": "Animation, Adventure, Comedy",
+    "release_date": "2017-11-22"
+  },
+  {
+    "id": 29,
+    "name": "Frozen",
+    "genre": "Animation, Adventure, Comedy",
+    "release_date": "2013-11-27"
+  },
+  {
+    "id": 30,
+    "name": "Frozen II",
+    "genre": "Animation, Adventure, Comedy",
+    "release_date": "2019-11-22"
+  }
+]}

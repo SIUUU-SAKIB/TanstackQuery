@@ -19,6 +19,12 @@ const Header = () => {
             <li>
               <NavLink to={'/rq'} className="hover:text-gray-400 transition font-medium">FetchRq</NavLink>
             </li>
+            <li>
+              <NavLink to={'/movies'} className="hover:text-gray-400 transition font-medium">Movies</NavLink>
+            </li>
+            <li>
+              <NavLink to={'/scroll'} className="hover:text-gray-400 transition font-medium">Infinite Scroll</NavLink>
+            </li>
           </ul>
         </div>
       </nav>
